@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="keshe">
+    <output-path>$PROJECT_DIR$/out/artifacts/submission_master_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="submission-master/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="submission-master" />
+        </element>
+        <element id="directory" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
